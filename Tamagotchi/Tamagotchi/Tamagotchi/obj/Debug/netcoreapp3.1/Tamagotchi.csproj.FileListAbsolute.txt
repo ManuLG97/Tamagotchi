@@ -1,0 +1,13 @@
+C:\Users\slope\source\repos\tamagotchi\Tamagotchi\Tamagotchi\bin\Debug\netcoreapp3.1\Tamagotchi.exe
+C:\Users\slope\source\repos\tamagotchi\Tamagotchi\Tamagotchi\bin\Debug\netcoreapp3.1\Tamagotchi.deps.json
+C:\Users\slope\source\repos\tamagotchi\Tamagotchi\Tamagotchi\bin\Debug\netcoreapp3.1\Tamagotchi.runtimeconfig.json
+C:\Users\slope\source\repos\tamagotchi\Tamagotchi\Tamagotchi\bin\Debug\netcoreapp3.1\Tamagotchi.runtimeconfig.dev.json
+C:\Users\slope\source\repos\tamagotchi\Tamagotchi\Tamagotchi\bin\Debug\netcoreapp3.1\Tamagotchi.dll
+C:\Users\slope\source\repos\tamagotchi\Tamagotchi\Tamagotchi\bin\Debug\netcoreapp3.1\Tamagotchi.pdb
+C:\Users\slope\source\repos\tamagotchi\Tamagotchi\Tamagotchi\obj\Debug\netcoreapp3.1\Tamagotchi.csprojAssemblyReference.cache
+C:\Users\slope\source\repos\tamagotchi\Tamagotchi\Tamagotchi\obj\Debug\netcoreapp3.1\Tamagotchi.AssemblyInfoInputs.cache
+C:\Users\slope\source\repos\tamagotchi\Tamagotchi\Tamagotchi\obj\Debug\netcoreapp3.1\Tamagotchi.AssemblyInfo.cs
+C:\Users\slope\source\repos\tamagotchi\Tamagotchi\Tamagotchi\obj\Debug\netcoreapp3.1\Tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\slope\source\repos\tamagotchi\Tamagotchi\Tamagotchi\obj\Debug\netcoreapp3.1\Tamagotchi.dll
+C:\Users\slope\source\repos\tamagotchi\Tamagotchi\Tamagotchi\obj\Debug\netcoreapp3.1\Tamagotchi.pdb
+C:\Users\slope\source\repos\tamagotchi\Tamagotchi\Tamagotchi\obj\Debug\netcoreapp3.1\Tamagotchi.genruntimeconfig.cache
